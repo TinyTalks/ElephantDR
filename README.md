@@ -1,5 +1,4 @@
-# ElephantDR: The Elephant in the Danmaku Room 
--- Uncovering Linguistic Features in Bilibili's Danmaku
+# ElephantDR: The Elephant in the Danmaku Room -- Uncovering Linguistic Features in Bilibili's Danmaku
 
 The Elephant in the Room.: 一个明显存在但却被人忽略或不愿提及的问题。
 本项目聚焦于B站弹幕文化中存在的某些不太被注意到的语言学特征，希望从语言学视角得到短文本的一些启示；
